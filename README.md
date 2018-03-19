@@ -16,7 +16,6 @@ npm install express --save
 
 In the console will appear:
 
-movies@1.0.0 /Users/Cristi/Desktop/movies
 --- express@4.16.3 
    --- accepts@1.3.5 
    ...
@@ -26,7 +25,6 @@ npm install jsonwebtoken --save
 
 In the console will appear:
 
-movies@1.0.0 /Users/Cristi/Desktop/movies
 --- jsonwebtoken@8.2.0   
     --- jws@3.1.4 
     ...
