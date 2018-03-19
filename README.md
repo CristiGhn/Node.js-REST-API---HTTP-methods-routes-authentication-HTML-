@@ -13,23 +13,19 @@ Finally write yes after “Is this ok?” question. You could also press enter t
 
 5. Install express module in same folder
 npm install express --save 
-
 In the console will appear:
-
 movies@1.0.0 /Users/Cristi/Desktop/movies
-└─┬ express@4.16.3 
-  ├─┬ accepts@1.3.5 
-  ...
+--- express@4.16.3 
+   --- accepts@1.3.5 
+   ...
   
 6. Install jsonwebtoken module in same folder
 npm install jsonwebtoken --save 
-
 In the console will appear:
-
 movies@1.0.0 /Users/Cristi/Desktop/movies
-└─┬ jsonwebtoken@8.2.0   
-  ├─┬ jws@3.1.4 
- ...
+--- jsonwebtoken@8.2.0   
+    --- jws@3.1.4 
+    ...
 
 7. Execute from command line node server.js
 
